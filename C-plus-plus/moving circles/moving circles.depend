@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1506247283 source:c:\users\vikas yadav\music\moving circles\untitled1.cpp
+	<SFML/Graphics.hpp>
+	<windows.h>
+	<iostream>
+	<vector>
+

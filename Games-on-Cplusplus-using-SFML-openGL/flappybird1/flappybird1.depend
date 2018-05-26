@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1518447735 source:c:\users\vikas yadav\documents\sfml\flappybird1\flappybird1.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<time.h>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+

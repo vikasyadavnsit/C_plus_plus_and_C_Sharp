@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506758862 source:c:\users\vikas yadav\music\linklist 5\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

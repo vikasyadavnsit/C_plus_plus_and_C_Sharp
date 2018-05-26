@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1506276396 source:c:\users\vikas yadav\music\muliple mains\main.cpp
+	<iostream>
+	<execute.h>
+
+1506276205 source:c:\users\vikas yadav\music\muliple mains\src\execute.cpp
+	"execute.h"
+
+1506276309 c:\users\vikas yadav\music\muliple mains\include\execute.h
+

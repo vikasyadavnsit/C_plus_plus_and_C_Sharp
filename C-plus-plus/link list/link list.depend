@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506536414 source:c:\users\vikas yadav\music\link list\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
